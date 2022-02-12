@@ -11,6 +11,7 @@ class Wallet
 	string  wallet_Name;
 	//ssmm
 	//xxx
+	//armazany 
 
 public:
 	void Initialize_Wallet(string , double );
